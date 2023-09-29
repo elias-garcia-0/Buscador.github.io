@@ -1,0 +1,6 @@
+body {
+    background-image: url('fondo.gif');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
